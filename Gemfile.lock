@@ -163,6 +163,7 @@ DEPENDENCIES
   google-protobuf (~> 3.25.1)
   html-proofer (~> 4.4)
   http_parser.rb (~> 0.6.0)
+  jekyll (= 4.3.4)
   jekyll-theme-chirpy (~> 6.3, >= 6.3.1)
   rake
   tzinfo (>= 1, < 3)
